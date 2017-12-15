@@ -1,6 +1,6 @@
 Owner:
-Jianning Yan(1000461715)
-Shenglin Meng (1000695517)
+Jianning Yan(1000461715) - Frontend
+Shenglin Meng (1000695517) - Backend
 
 Instructions to run:
 
