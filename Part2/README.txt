@@ -1,7 +1,6 @@
 Owners:
-
-Jianning Yan(1000461715)
-Shenglin Meng (1000695517)
+Jianning Yan(1000461715) - Frontend
+Shenglin Meng (1000695517) - Backend
 
 Public IP address of the live web server: 34.237.28.99
 Web address: http://ec2-34-237-28-99.compute-1.amazonaws.com:80
